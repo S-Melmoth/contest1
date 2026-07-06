@@ -1,4 +1,4 @@
-# Animal Shelter
+# Kaggle classification competition -- Animal Shelter 
 The task is to predict the fate of each animal described in the test set and to try to find out what are the most important features or features combinations possibly leading to each of the outcomes.
 
 Using any data other than those provided for the competition is prohibited.
